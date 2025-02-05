@@ -1,5 +1,6 @@
 # WaterMelon
 
+# EN
 
 One hot summer day Pete and his friend Billy decided to buy a watermelon. They chose the biggest and the ripest one, in their opinion. After that the watermelon was weighed, and the scales showed w kilos. They rushed home, dying of thirst, and decided to divide the berry, however they faced a hard problem.
 
@@ -10,3 +11,13 @@ The first (and the only) input line contains integer number w (1 ≤ w ≤
 
 **Output**
 Print YES, if the boys can divide the watermelon into two parts, each of them weighing even number of kilos; and NO in the opposite case.
+
+# RU
+
+Однажды жарким летним днём Пит и его друг Билли решили купить арбуз. Они выбрали самый большой и спелый, по их мнению, арбуз. После этого арбуз взвесили, и весы показали w килограммов. Они поспешили домой, умирая от жажды, и решили разделить ягоду, но столкнулись с серьёзной проблемой.
+
+Пит и Билли — большие поклонники чётных чисел, поэтому они хотят разделить арбуз так, чтобы каждая из двух частей весила чётное количество килограммов, при этом необязательно, чтобы части были равными. Мальчики очень устали и хотят поскорее приступить к еде, поэтому вам нужно помочь им и выяснить, смогут ли они разделить арбуз так, как хотят. Конечно, каждый из них должен получить часть положительного веса.
+
+**Ввод** Первая (и единственная) строка ввода содержит целое число w (1 ≤ w ≤ 100) — вес арбуза, купленного мальчиками.
+
+**Вывод** Выведите YES, если мальчики могут разделить арбуз на две части, каждая из которых весит чётное количество килограммов, и NO в противном случае.
