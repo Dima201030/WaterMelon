@@ -2,14 +2,15 @@
 
 using namespace std;
 int main() {
-    int number;
-    while (true) {
-        cin >> number;
-        if (number >= 4 && number % 2 == 0) {
-            cout << "YES" << endl;
-        } else {
-            cout << "NO" << endl;
-        }
+
+    int weeight = 0;
+
+    cin >> weeight;
+
+    if (weeight > 2 && weeight % 2 == 0){
+        cout << "YES" << endl;
+    } else {
+        cout << "NO" << endl;
     }
-    return 0;
+    
 }
